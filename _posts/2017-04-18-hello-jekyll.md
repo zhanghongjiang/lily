@@ -4,7 +4,7 @@ title: 'Hello Jekyll'
 date: 2017-04-18
 author: Jekyll
 excerpt: 我很喜欢这个主题
-cover: '/assets/img/about.jpg'
+cover: '/assets/img/blob.gif'
 tags: jekyll
 ---
 
