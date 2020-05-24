@@ -1,15 +1,1 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 66">
-  <!-- svg-source:excalidraw -->
-  <defs>
-    <style>
-      @font-face {
-        font-family: "Virgil";
-        src: url("https://excalidraw.com/FG_Virgil.woff2");
-      }
-      @font-face {
-        font-family: "Cascadia";
-        src: url("https://excalidraw.com/Cascadia.woff2");
-      }
-    </style>
-  </defs>
-  <g transform="translate(10 10) rotate(0 35 23)"><text x="0" y="32" font-family="Virgil" font-size="36px" fill="#fafaf9" text-anchor="start" style="white-space: pre;">Lina</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="138.995" height="96.356" viewBox="0 0 138.995 96.356"><g transform="translate(-400.576 -1183.179)"><path d="M44.651,1.411C21.457-6.732-4.055,21.91.542,47.94,3.111,62.491,12.892,68.379,25.374,69.16c9.693.606,21.377-1.4,30.521-8.716C76.629,43.863,67.844,9.553,44.651,1.411Z" transform="matrix(-0.777, -0.629, 0.629, -0.777, 453.096, 1279.535)" fill="#fd1f14" opacity="0.57"/><path d="M44.651,1.411C21.457-6.732-4.055,21.91.542,47.94,3.111,62.491,12.892,68.379,25.374,69.16c9.693.606,21.377-1.4,30.521-8.716C76.629,43.863,67.844,9.553,44.651,1.411Z" transform="translate(478.831 1185.419) rotate(26)" fill="#1db7cb" opacity="0.401"/></g></svg>
