@@ -1,15 +1,15 @@
 ---
 layout: post
-title: '我的非典型成长之路——相信的力量'
-subtitle: '我读我写我思考'
+title: '相信的力量'
+subtitle: '我的小学'
 date: 2020-01-02
 categories: 个人
-excerpt: 我很喜欢这个主题
+excerpt: 你相信谁，相信什么，某种程度上决定了你的人生
 cover: '/assets/img/school.jpg'
-tags: 职场 人生
+tags: 成长 人生
 ---
 
-# 我的非典型成长之路——相信的力量
+# 相信的力量
 
 
 记得上小学三年级的时候，一次语文课上，老师让我们几个坐在前排的同学读课文，每人一段。
