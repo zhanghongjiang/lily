@@ -4,7 +4,7 @@ title: 致读者
 subtitle: 种一棵树最好的时间是十年前，其次是现在
 excerpt: 种一棵树最好的时间是十年前，其次是现在
 date: 2020-01-01
-cover: "/assets/img/toread_bg.jpg"
+cover: "/assets/img/letter.jpg"
 categories: 保险
 tags: 选择 风险管理 保险
 ---

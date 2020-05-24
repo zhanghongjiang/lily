@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "我的非典型成长之路——进京"
-subtitle: "我读我写我思考"
+title: "选择 + 努力 = ？"
+subtitle: "开启北漂之路"
 date: 2020-01-03
 categories: 个人
-cover:
+excerpt: 一件事在心里向往是一回事，真正要做到其实是另外一回事
+cover: '/assets/img/jiaolou.jpg'
 tags: 职场 人生
 ---
 
-# 我的非典型成长之路——进京
+# 选择 + 努力 = ？
 
 2004 年 3 月，我在老家唐山工作。
 
