@@ -5,7 +5,7 @@ subtitle: '你相信谁，相信什么，某种程度上决定了你的人生'
 date: 2020-01-02
 categories: 个人
 excerpt: 你相信谁，相信什么，某种程度上决定了你的人生
-cover: '/assets/img/school.jpg'
+cover: '/assets/img/bg3.jpg'
 tags: 成长 人生
 ---
 
