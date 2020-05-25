@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "选择 + 努力 = ？"
+title: 选择 + 努力 = ？
 subtitle: 一件事在心里向往是一回事，真正要做到其实是另外一回事
-date: 2020-01-03
-categories: 个人
 excerpt: 一件事在心里向往是一回事，真正要做到其实是另外一回事
-cover: '/assets/img/jiaolou.jpg'
-tags: 职场 人生
+date: 2020-01-03
+cover: /assets/img/jiaolou.jpg
+categories: 个人
+tags: 成长 职场 
 ---
-
-# 选择 + 努力 = ？
 
 2004 年 3 月，我在老家唐山工作。
 

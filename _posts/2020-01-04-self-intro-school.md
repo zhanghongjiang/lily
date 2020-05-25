@@ -1,16 +1,13 @@
 ---
 layout: post
-title: '相信的力量'
-subtitle: '你相信谁，相信什么，某种程度上决定了你的人生'
-date: 2020-01-02
-categories: 个人
+title: 相信的力量
+subtitle: 你相信谁，相信什么，某种程度上决定了你的人生
 excerpt: 你相信谁，相信什么，某种程度上决定了你的人生
-cover: '/assets/img/bg3.jpg'
-tags: 成长 人生
+date: 2020-01-02
+cover: /assets/img/bg3.jpg
+categories: 个人
+tags: 成长
 ---
-
-# 相信的力量
-
 
 记得上小学三年级的时候，一次语文课上，老师让我们几个坐在前排的同学读课文，每人一段。
 
