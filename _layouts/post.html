@@ -27,9 +27,11 @@
       </div>
     </div>
     {% if page.cover %}
-
+    {% if site.cdn %}
     {% assign cover = page.cover | replace: '/assets/', 'https://cdn.jsdelivr.net/gh/zhanghongjiang/lily/assets/' %}
-    
+    {% else %}
+    {% assign cover = page.cover %}
+    {% endif %}
     <div class="filter"></div>
       <div class="post-cover" style="background: url('{{cover | relative_url }}') center no-repeat; background-size: cover;"></div>
     {% endif %}
@@ -41,7 +43,11 @@
     {% endif %}
 
     <article class="markdown-body">
+      {% if site.cdn %}
       {{ page.content | replace: '/assets/', 'https://cdn.jsdelivr.net/gh/zhanghongjiang/lily/assets/' }}
+      {% else %}
+      {{ page.content }}
+      {% endif %}
     </article>
 
     {% if site.social-share %}

@@ -8,9 +8,13 @@
 <![endif]-->
     <input id="nm-switch" type="hidden" value="{{ site.nightMode }}">
     <div class="visible">
-      {% assign assets_base_url = "https://cdn.jsdelivr.net/gh/" | append: site.repository %}
-      {{ assets_base_url }}
+   
+      {% if site.cdn %}
       {{ content | replace: '/assets/', 'https://cdn.jsdelivr.net/gh/zhanghongjiang/lily/assets/' }}
+      {% else %}
+      {{ content }}
+      {% endif %}
+
     </div>
     <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
     <script src="{{ "/assets/js/prism.js" | relative_url }}"></script>
