@@ -57,6 +57,8 @@ published: true
 
 ## 一张图总结
 
+![](/assets/post_img/008.jpg)
+
 ---
 
 - 本文主要参考《三联生活周刊》谢九的文章[《银行理财不保本了 以后还能买吗？》](https://finance.sina.com.cn/china/gncj/2020-06-19/doc-iircuyvi9427876.shtml)和《关于规范金融机构资产管理业务的指导意见》
