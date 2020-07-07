@@ -2,7 +2,7 @@
 layout: post
 title: 帕金森定理和 80/20 法则
 subtitle: 两种提高效率的方法
-excerpt:
+excerpt: 两种提高效率的方法
 date: 2020-06-19
 cover: /assets/img/reading_a_book.svg
 categories: 个人

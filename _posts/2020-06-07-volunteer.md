@@ -2,7 +2,7 @@
 layout: post
 title: 一个社区志愿者眼中的北京垃圾分类
 subtitle: 美好生活来自我们每一个人
-excerpt:
+excerpt: 美好生活来自我们每一个人
 date: 2020-06-07
 cover: /assets/img/recycling.svg
 categories: 个人

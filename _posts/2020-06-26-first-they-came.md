@@ -2,7 +2,7 @@
 layout: post
 title: 从维权想到一首诗
 subtitle: 让人绝望的，不是敌人的凶残，而是战友的沉默
-excerpt:
+excerpt: 让人绝望的，不是敌人的凶残，而是战友的沉默
 date: 2020-06-26
 cover: /assets/img/reading_a_book.svg
 categories: 个人

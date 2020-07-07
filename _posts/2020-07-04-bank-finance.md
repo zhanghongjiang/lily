@@ -2,7 +2,7 @@
 layout: post
 title: 银行理财不保本还能买吗？
 subtitle: 选择对应自己风险承受能力的理财产品
-excerpt:
+excerpt: 选择对应自己风险承受能力的理财产品
 date: 2020-07-04
 cover: /assets/img/bitcoin.svg
 categories: 个人
