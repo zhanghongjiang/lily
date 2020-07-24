@@ -629,3 +629,11 @@ li p:nth-child(2) {
 .markdown-body hr {
   border-bottom-color: #eee;
 }
+
+.markdown-body 
+  img[src*="full"] {
+    max-width: 98vw;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
