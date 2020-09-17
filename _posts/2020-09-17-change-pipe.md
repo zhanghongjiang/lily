@@ -4,7 +4,7 @@ title: 更换旧水管小记
 subtitle: 换掉旧水管，认识好邻居
 excerpt: 换掉旧水管，认识好邻居
 date: 2020-09-17
-cover: /assets/img/reading_a_book.svg
+cover: 
 categories: 个人
 tags: 生活
 published: true
